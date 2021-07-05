@@ -1,0 +1,11 @@
+[package]
+name = "calcite"
+version = "0.1.1"
+authors = ["Quant1um <spitfirexv22@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rayon = "1.5.1"
+multimap = "0.8.3"
